@@ -10,8 +10,8 @@
 }
 body {
   /* background: #f1a597; */
-  background-color: -webkit-linear-gradient(#f1a597, #fff);
-  background-color: linear-gradient(#f1a597, #fff);
+  background-image: -webkit-linear-gradient(#f1a597, #fff);
+  background-image: linear-gradient(#f1a597, #fff);
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
