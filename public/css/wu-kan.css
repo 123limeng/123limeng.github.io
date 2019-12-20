@@ -9,7 +9,8 @@
   }
 }
 body {
-  background: #ec6149;
+  /* background: #f1a597; */
+  background-color: linear-gradient(#f1a597, #fff);
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
