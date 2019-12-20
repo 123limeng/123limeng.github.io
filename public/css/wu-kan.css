@@ -53,6 +53,9 @@ pre {
   background-color: #e46b6b !important;
   font-family: Menlo, Monaco, "Courier New", Microsoft JhengHei Light, monospace;
 }
+.theme-base-0d #sidebar-checkbox:checked~.sidebar-toggle, .theme-base-0d .sidebar, .theme-base-0d .sidebar-toggle:active {
+  background-color: #e46b6b !important;
+}
 .sidebar-social {
   text-align: center;
   font-size: .7rem;
