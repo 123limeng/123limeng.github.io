@@ -50,6 +50,7 @@ pre {
   border-width: 0px;
 }
 .sidebar {
+  background-color: #e46b6b !important;
   font-family: Menlo, Monaco, "Courier New", Microsoft JhengHei Light, monospace;
 }
 .sidebar-social {
