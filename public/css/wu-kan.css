@@ -56,6 +56,9 @@ pre {
 .theme-base-0d #sidebar-checkbox:checked~.sidebar-toggle, .theme-base-0d .sidebar, .theme-base-0d .sidebar-toggle:active {
   background-color: #e46b6b !important;
 }
+.theme-base-0d .container a, .theme-base-0d .related-posts li a:hover, .theme-base-0d .sidebar-toggle {
+  background-color: #e46b6b !important;
+}
 .sidebar-social {
   text-align: center;
   font-size: .7rem;
