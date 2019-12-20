@@ -220,3 +220,7 @@ pre {
 }
 }
 /*头像效果-end*/
+
+.masthead-title small {
+  color: #fff !important;
+}
