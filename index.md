@@ -12,14 +12,12 @@ title: 五彩斑斓的小丸子
 
 ## Education
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
-
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+北雷职业技术学院——软件工程（2015.09~2019.07）
 
 ## Award
 
 ## Skill
-
+C
+C++
+JAVA
+JavaScript
